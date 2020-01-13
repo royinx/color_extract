@@ -1,0 +1,28 @@
+{
+  "rgb": {
+  	"fmt":"rgb",
+    "scale": 1,
+    "eps": 7.5,
+    "min_sample": 50,
+    "color_threshold": 10,
+    "color_range": [20,20,20],
+    "label": [
+      "R",
+      "G",
+      "B"
+    ]
+  },
+  "hsv": {
+  	"fmt":"hsv",
+    "scale": 255,
+    "eps": 0.05,
+    "min_sample": 50,
+    "color_threshold": 10,
+    "color_range": [0.2,0.2,0.2],
+    "label": [
+      "H",
+      "S",
+      "V"
+    ]
+  }
+}
